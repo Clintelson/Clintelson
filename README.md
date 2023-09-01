@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Clint Soriano
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning PYTHON
 - 📫 How to reach me @elsonsorianoclint@gmail.com
 
 <!---
