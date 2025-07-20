@@ -1,4 +1,4 @@
-- Yo, I’m Clint Soriano
+- Yo, I’m Clint Elson Soriano
 - currently learning Nextjs
 - 📫 How to reach me @elsonsorianoclint@gmail.com
 
