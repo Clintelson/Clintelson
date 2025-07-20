@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Clint Soriano
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning JS
+- Yo, I’m Clint Soriano
+- currently learning Nextjs
 - 📫 How to reach me @elsonsorianoclint@gmail.com
 
 <!---
